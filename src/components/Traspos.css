@@ -1,0 +1,40 @@
+.trak{ background-image:
+    linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.856)),
+    url('../images/Photo\ \(4\).png');
+   height: 250px;
+   width: 200px;
+    background-size: cover;
+    padding: 20px;
+    }
+.manAndWoman{ background-image:
+    linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.87)),
+    url('../images/Photo\ \(8\).png');
+   height: 250px;
+   width: 200px;
+    background-size: cover;
+    padding: 20px;
+    }
+.trak2{ background-image:
+    linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.829)),
+    url('../images/Photo\ \(5\).png');
+   height: 250px;
+   width: 200px;
+    background-size: cover;
+    padding: 20px;
+    }
+.seaPort{ background-image:
+    linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.785)),
+    url('../images/Photo\ \(6\).png');
+   height: 250px;
+   width: 200px;
+    background-size: cover;
+    padding: 20px;
+    }
+    .ship{ background-image:
+        linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.813)),
+        url('../images/Photo\ \(7\).png');
+       height: 250px;
+       width: 200px;
+        background-size: cover;
+        padding: 20px;
+        }
